@@ -5,3 +5,15 @@
 # e.g. image=$HOME/Pictures/default.png
 image=/usr/share/backgrounds/gnome/keys-d.jpg
 scaling=fill
+indicator-caps-lock
+indicator-idle-visible
+ignore-empty-password
+show-failed-attempts
+show-keyboard-layout
+font=Roboto Medium
+color=2f2f2f
+inside-color=2f2f2f
+inside-clear-color=eeeeee
+ring-color=317b79
+ring-clear-color=317b79
+ring-ver-color=2980b9
